@@ -1,0 +1,47 @@
+c:\users\vitalik\documents\visual studio 2012\Projects\new\BomberMan\bin\Debug\BomberMan.exe.config
+c:\users\vitalik\documents\visual studio 2012\Projects\new\BomberMan\bin\Debug\BomberMan.exe
+c:\users\vitalik\documents\visual studio 2012\Projects\new\BomberMan\bin\Debug\BomberMan.pdb
+c:\users\vitalik\documents\visual studio 2012\Projects\new\BomberMan\obj\Debug\MainWindow.baml
+c:\users\vitalik\documents\visual studio 2012\Projects\new\BomberMan\obj\Debug\MainWindow.g.cs
+c:\users\vitalik\documents\visual studio 2012\Projects\new\BomberMan\obj\Debug\App.g.cs
+c:\users\vitalik\documents\visual studio 2012\Projects\new\BomberMan\obj\Debug\BomberMan_MarkupCompile.cache
+c:\users\vitalik\documents\visual studio 2012\Projects\new\BomberMan\obj\Debug\BomberMan.g.resources
+c:\users\vitalik\documents\visual studio 2012\Projects\new\BomberMan\obj\Debug\BomberMan.Properties.Resources.resources
+c:\users\vitalik\documents\visual studio 2012\Projects\new\BomberMan\obj\Debug\BomberMan.csproj.GenerateResource.Cache
+c:\users\vitalik\documents\visual studio 2012\Projects\new\BomberMan\obj\Debug\BomberMan.exe
+c:\users\vitalik\documents\visual studio 2012\Projects\new\BomberMan\obj\Debug\BomberMan.pdb
+c:\users\vitalik\documents\visual studio 2012\Projects\new\BomberMan\obj\Debug\Menu.baml
+c:\users\vitalik\documents\visual studio 2012\Projects\new\BomberMan\obj\Debug\Menu.g.cs
+C:\Users\Vitalik\Documents\Visual Studio 2012\Projects\BomberMan\bin\Debug\BomberMan.exe.config
+C:\Users\Vitalik\Documents\Visual Studio 2012\Projects\BomberMan\obj\Debug\BomberMan.exe
+C:\Users\Vitalik\Documents\Visual Studio 2012\Projects\BomberMan\obj\Debug\BomberMan.pdb
+C:\Users\Vitalik\Documents\Visual Studio 2012\Projects\BomberMan\obj\Debug\BomberMan.csprojResolveAssemblyReference.cache
+C:\Users\Vitalik\Documents\Visual Studio 2012\Projects\BomberMan\obj\Debug\MainWindow.baml
+C:\Users\Vitalik\Documents\Visual Studio 2012\Projects\BomberMan\obj\Debug\Menu.baml
+C:\Users\Vitalik\Documents\Visual Studio 2012\Projects\BomberMan\obj\Debug\MainWindow.g.cs
+C:\Users\Vitalik\Documents\Visual Studio 2012\Projects\BomberMan\obj\Debug\Menu.g.cs
+C:\Users\Vitalik\Documents\Visual Studio 2012\Projects\BomberMan\obj\Debug\App.g.cs
+C:\Users\Vitalik\Documents\Visual Studio 2012\Projects\BomberMan\obj\Debug\BomberMan_MarkupCompile.cache
+C:\Users\Vitalik\Documents\Visual Studio 2012\Projects\BomberMan\obj\Debug\BomberMan.g.resources
+C:\Users\Vitalik\Documents\Visual Studio 2012\Projects\BomberMan\obj\Debug\BomberMan.Properties.Resources.resources
+C:\Users\Vitalik\Documents\Visual Studio 2012\Projects\BomberMan\obj\Debug\BomberMan.csproj.GenerateResource.Cache
+C:\Users\Vitalik\Documents\Visual Studio 2012\Projects\BomberMan\bin\Debug\BomberMan.exe
+C:\Users\Vitalik\Documents\Visual Studio 2012\Projects\BomberMan\bin\Debug\BomberMan.pdb
+D:\Users\Zippocat\Cloud@Mail.Ru\Съемный диск\Курсовые\Net\Bomber\2 BomberMan MS 2012 3.5 Рабочий exe\bin\Debug\BomberMan.exe.config
+D:\Users\Zippocat\Cloud@Mail.Ru\Съемный диск\Курсовые\Net\Bomber\2 BomberMan MS 2012 3.5 Рабочий exe\obj\Debug\BomberMan.exe
+D:\Users\Zippocat\Cloud@Mail.Ru\Съемный диск\Курсовые\Net\Bomber\2 BomberMan MS 2012 3.5 Рабочий exe\obj\Debug\BomberMan.pdb
+C:\Users\Zippocat\Downloads\1\BomberMan\bin\Debug\BomberMan.exe.config
+C:\Users\Zippocat\Downloads\1\BomberMan\obj\Debug\BomberMan.exe
+C:\Users\Zippocat\Downloads\1\BomberMan\obj\Debug\BomberMan.pdb
+C:\Users\Zippocat\Downloads\1\BomberMan\obj\Debug\BomberMan.csprojResolveAssemblyReference.cache
+C:\Users\Zippocat\Downloads\1\BomberMan\obj\Debug\MainWindow.baml
+C:\Users\Zippocat\Downloads\1\BomberMan\obj\Debug\Menu.baml
+C:\Users\Zippocat\Downloads\1\BomberMan\obj\Debug\MainWindow.g.cs
+C:\Users\Zippocat\Downloads\1\BomberMan\obj\Debug\Menu.g.cs
+C:\Users\Zippocat\Downloads\1\BomberMan\obj\Debug\App.g.cs
+C:\Users\Zippocat\Downloads\1\BomberMan\obj\Debug\BomberMan_MarkupCompile.cache
+C:\Users\Zippocat\Downloads\1\BomberMan\obj\Debug\BomberMan.g.resources
+C:\Users\Zippocat\Downloads\1\BomberMan\bin\Debug\BomberMan.exe
+C:\Users\Zippocat\Downloads\1\BomberMan\bin\Debug\BomberMan.pdb
+C:\Users\Zippocat\Downloads\1\BomberMan\obj\Debug\BomberMan.Properties.Resources.resources
+C:\Users\Zippocat\Downloads\1\BomberMan\obj\Debug\BomberMan.csproj.GenerateResource.Cache

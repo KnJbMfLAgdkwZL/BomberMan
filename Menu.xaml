@@ -1,0 +1,40 @@
+﻿<Window x:Class="BomberMan.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Menu" Height="400" Width="400" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="#D83CB4E6" AllowsTransparency="True" WindowStyle="None" KeyDown="Window_KeyDown">
+    <Canvas>
+        <Canvas Name="Main">
+            <Label Content="Создать сервер" Canvas.Left="88" Canvas.Top="35" FontSize="30" FontFamily="Comic Sans MS" Foreground="Black" MouseEnter="LableExit_MouseEnter" MouseLeave="Label_MouseLeave" MouseDown="Label_MouseDown"/>
+            <Label Content="Присоединится" Canvas.Left="93" Canvas.Top="122" FontSize="30" FontFamily="Comic Sans MS" Foreground="Black" MouseEnter="LableExit_MouseEnter" MouseLeave="Label_MouseLeave" MouseDown="Label_MouseDown"/>
+            <Label Content="Об игре" Canvas.Left="138" Canvas.Top="209" FontSize="30" FontFamily="Comic Sans MS" Foreground="Black" MouseEnter="LableExit_MouseEnter" MouseLeave="Label_MouseLeave" MouseDown="Label_MouseDown"/>
+            <Label Content="Выход" Canvas.Left="147" Canvas.Top="296" FontSize="30" FontFamily="Comic Sans MS" Foreground="Black" MouseEnter="LableExit_MouseEnter" MouseLeave="Label_MouseLeave" MouseDown="Label_MouseDown"/>
+        </Canvas>
+        <Canvas Name="Create" Visibility="Hidden">
+            <Label Content="Создать" Canvas.Left="139.5" Canvas.Top="260" FontSize="30" FontFamily="Comic Sans MS" Foreground="Black" MouseEnter="LableExit_MouseEnter" MouseLeave="Label_MouseLeave" MouseDown="Label_MouseDown"/>
+            <Label Content="Кол. фрагов:" Canvas.Left="10" Canvas.Top="170" FontSize="30" FontFamily="Comic Sans MS" Foreground="Black"/>
+            <TextBox Name="Frags"  Width="129" Canvas.Left="232" Canvas.Top="179" FontFamily="Comic Sans MS" FontSize="20" MaxLength="2" PreviewTextInput="Frags_PreviewTextInput">
+                50
+            </TextBox>
+        </Canvas>
+        <Canvas Name="Connect" Visibility="Hidden">
+            <Label Content="IP Сервера:" Canvas.Left="10" Canvas.Top="35" FontSize="30" FontFamily="Comic Sans MS" Foreground="Black"/>
+            <TextBox Name="IP" Width="129" Canvas.Left="232" Canvas.Top="44" FontFamily="Comic Sans MS" FontSize="20" PreviewTextInput="TextBox_PreviewTextInput">
+                127.0.0.1
+            </TextBox>
+            <Label Content="Подключится" Canvas.Left="93" Canvas.Top="260" FontSize="30" FontFamily="Comic Sans MS" Foreground="Black" MouseEnter="LableExit_MouseEnter" MouseLeave="Label_MouseLeave" MouseDown="Label_MouseDown"/>
+        </Canvas>
+        <Canvas Name="About" Visibility="Hidden">
+            <TextBlock Name="about" Canvas.Left="20" Canvas.Top="20" FontSize="17" FontFamily="Comic Sans MS">
+            </TextBlock>
+        </Canvas>
+        <Label Name="Back"  Content="Назад" Canvas.Left="152.5" Canvas.Top="331" FontSize="30" FontFamily="Comic Sans MS" Foreground="Black" MouseEnter="LableExit_MouseEnter" MouseLeave="Label_MouseLeave" MouseDown="Label_MouseDown" Visibility="Hidden"/>
+        <Label Name="PortLable" Content="Порт Сервера:" Canvas.Left="10" Canvas.Top="80" FontSize="30" FontFamily="Comic Sans MS" Foreground="Black" Visibility="Hidden"/>
+        <TextBox Name="Port"  Width="129" Canvas.Left="232" Canvas.Top="89" FontFamily="Comic Sans MS" FontSize="20" Visibility="Hidden" PreviewTextInput="Frags_PreviewTextInput" MaxLength="4">
+            2024
+        </TextBox>
+        <Label Name="NameLAbel" Content="Имя игрока:" Canvas.Left="10" Canvas.Top="125" FontSize="30" FontFamily="Comic Sans MS" Foreground="Black" Visibility="Hidden"/>
+        <TextBox Name="PlayerName"  Width="129" Canvas.Left="232" Canvas.Top="134" FontFamily="Comic Sans MS" FontSize="20" Visibility="Hidden" MaxLength="10">
+            Player
+        </TextBox>
+    </Canvas>
+</Window>
